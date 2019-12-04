@@ -171,8 +171,61 @@ async def mastery(ctx, *, arg):
     
     await ctx.send(embed=embed)
 
+@bot.command()
+async def lastgame(ctx, *, arg):
+    summonerName = arg
+    summoner = requests.get(url = URL+'lol/summoner/v4/summoners/by-name/'+summonerName, params = '', headers=headers).json()
+    lastGames = requests.get(url = URL+'lol/match/v4/matchlists/by-account/'+ summoner['accountId']+ '?endIndex=5&beginIndex=0',params=None, headers = headers).json()
+    wantedGame = requests.get(url= URL+'lol/match/v4/matches/{}'.format(lastGames['matches'][0]['gameId']), params=None, headers = headers).json()
+
+    mainGameInfo = wantedGame
+    gameParticipants = wantedGame['participants']
+    gameTeams = wantedGame['teams']
+    participantIdentities = wantedGame['participantIdentities']
+
+    championNames = json.loads(open('discordbot/champions-en_gb.json').read())
+    gameModes = json.loads(open('discordbot/queues.json').read())
+    for object in gameModes:
+        if object['queueId'] == mainGameInfo['queueId']:
+                gamemode = object['description']
+                gamemode = gamemode[:-1]
+                break
+    for participant in participantIdentities:
+        if participant['player']['accountId'] == summoner['accountId']:
+            participantId = participant['participantId']
+            break
+    for gameParticipant in gameParticipants:
+        if gameParticipant['participantId'] == participantId:
+            wantedParticipant = gameParticipant
+            break
+    if wantedParticipant['teamId'] == 100:
+        teamSide = "Blue side"
+    elif wantedParticipant['teamId'] == 200:
+        teamSide = "Red side"
+    for team in gameTeams:
+        if team['teamId'] == wantedParticipant['teamId']:
+            winOrLoss = team['win']
+            thisTeam = team
+            if winOrLoss == "Fail":
+                winOrLoss = "Lost"
+            elif winOrLoss == "Win":
+                winOrLoss = "Won"
+            break
+    championName = championNames[str(wantedParticipant['championId'])]
+    kda = "{}/{}/{}".format(wantedParticipant['stats']['kills'], wantedParticipant['stats']['deaths'], wantedParticipant['stats']['assists'])
 
 
-bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.XeezFQ.DQAznC82dDQIW7PTt5ZpvjDhYl8')
+    embed = discord.Embed(title="last game stats for {}".format(summonerName), description=gamemode)
+    embed.set_thumbnail(url="http://ddragon.leagueoflegends.com/cdn/9.23.1/img/champion/{}.png".format(championName))
+    embed.add_field(name="team", value="{} , played as {} and {} with a KDA of {}".format(teamSide, championName, winOrLoss, kda ), inline=False)
+    embed.add_field(name="team stats", value="towers destroyed: {} \n dragon kills: {} \n baron kills: {} \n first blood: {} \n rift herald kills: {}".format(thisTeam['towerKills'], thisTeam['dragonKills'], thisTeam['baronKills'], thisTeam['firstBlood'], thisTeam['riftHeraldKills']))
+    embed.add_field(name="player stats",value="damage to objectives: {} \n neutrals killed: {} \n wards killed: {} \n damage dealt: {} \n gold earned: {}".format(wantedParticipant['stats']['damageDealtToObjectives'],wantedParticipant['stats']['neutralMinionsKilled'], wantedParticipant['stats']['wardsKilled'], wantedParticipant['stats']['totalDamageDealt'], wantedParticipant['stats']['goldEarned'] ))
+    embed.add_field(name="-", value="champion level: {} \n total minions: {} \n physical damage: {} \n magic damage: {} \n damage taken: {}".format(wantedParticipant['stats']['champLevel'], wantedParticipant['stats']['totalMinionsKilled'], wantedParticipant['stats']['physicalDamageDealt'], wantedParticipant['stats']['magicDamageDealt'], wantedParticipant['stats']['totalDamageTaken'] ))
+
+    await ctx.send(embed=embed)
+
+
+
+bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.Xee39A.U38zAq3dwbKtauU9M3eEOZVhNAM')
 
 
