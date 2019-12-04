@@ -146,7 +146,33 @@ async def summoner(ctx, *, arg):
         a = a + 1
 
 
+@bot.command()
+async def mastery(ctx, *, arg):
+    summonerName = arg
+    r = requests.get(url = URL+'lol/summoner/v4/summoners/by-name/'+summonerName+'?api_key=RGAPI-d1921b67-13fb-4ec3-b0b6-81e934e391ff', params = '', headers=headers)
+    summoner = r.json()
+    mastery = requests.get(url=URL+'lol/champion-mastery/v4/champion-masteries/by-summoner/'+summoner['id'], params=None, headers=headers)
+    masteryChampions = mastery.json()
+    championNames = json.loads(open('discordbot/champions-en_gb.json').read())
 
-bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.XebLOw.E7qNEoNxU3-aPGmEkSJJXo8p15M')
+
+    embed = discord.Embed(title="highest mastery champions", description=summoner['name'])
+    a = 0
+    for champion in masteryChampions:
+        if a == 3:
+            break
+        championName = championNames[str(champion['championId'])]
+        if champion['chestGranted'] == True:
+            chestGranted = "Yes"
+        elif champion['chestGranted'] == False:
+            chestGranted == "No"
+        embed.add_field(name=championName, value="mastery score: {} \n champion level: {} \n point since last level: {} \n chest granted: {}".format(champion['championPoints'], champion['championLevel'], champion['championPointsSinceLastLevel'], chestGranted))
+        a += 1
+    
+    await ctx.send(embed=embed)
+
+
+
+bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.XeezFQ.DQAznC82dDQIW7PTt5ZpvjDhYl8')
 
 
