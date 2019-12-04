@@ -19,6 +19,8 @@ async def info(ctx):
     embed.add_field(name="Server count", value=f"{len(bot.guilds)}")
     embed.add_field(name="Help command", value="$$help")
     embed.add_field(name="Invite", value="https://discordapp.com/api/oauth2/authorize?client_id=634462430251974657&permissions=8&scope=bot")
+    embed.add_field(name="github", value="https://github.com/woutdt/discordbot/blob/master/discordcommand.py")
+    embed.set_thumbnail(url="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjTuJq7rprmAhWMjKQKHcldCAUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.raspberrypi.org%2Ftrademark-rules%2F&psig=AOvVaw05IWS-adSk_PsJcCkjF8cX&ust=1575492873986160")
 
     await ctx.send(embed=embed)
 
@@ -82,10 +84,16 @@ async def summoner(ctx, *, arg):
     stats = []
     hero = []
     champions1 = json.loads(open('discordbot/champions-en_gb.json').read())
+    queues = json.loads(open('discordbot/queues.json').read())
     for i in matches['matches']:
         s = requests.get(url = URL+'lol/match/v4/matches/' + str(i['gameId']),params=None, headers= headers )
         sgame = s.json()
-        gamemode = sgame['gameMode']
+        queueId = sgame['queueId']
+        for object in queues:
+            if object['queueId'] == queueId:
+                gamemode = object['description']
+                gamemode = gamemode[:-1]
+                break
         for p in sgame['participants']:
             if p['championId'] == i['champion']:
                 hero.append(champions1[str(p['championId'])])
@@ -123,9 +131,9 @@ async def summoner(ctx, *, arg):
         if a == 3:
             break
         if i['win'] == "win":
-            embed = discord.Embed(title="{} game".format(i['gamemode'].lower()), description=hero[a], color=0x3eeb69)
+            embed = discord.Embed(title="{}".format(i['gamemode'].lower()), description=hero[a], color=0x3eeb69)
         elif i['win'] == "Loss":
-            embed = discord.Embed(title="{} game".format(i['gamemode'].lower()), description=hero[a], color=0xfd0303)
+            embed = discord.Embed(title="{}".format(i['gamemode'].lower()), description=hero[a], color=0xfd0303)
         else:
             break
         embed.add_field(name="kills", value=i['kills'])
@@ -139,6 +147,6 @@ async def summoner(ctx, *, arg):
 
 
 
-bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.XalLxg.TdxFz9ZihnRUi5bvHc7sQQXpkv0')
+bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.XebLOw.E7qNEoNxU3-aPGmEkSJJXo8p15M')
 
 
