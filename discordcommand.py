@@ -224,6 +224,11 @@ async def lastgame(ctx, *, arg):
         killPercentage = int(summonerKills / teamKills * 100)
         return killPercentage
         
+    def calcCsPMin():
+        summonerCsKills = wantedParticipant['stats']['totalMinionsKilled']
+        gameLength = mainGameInfo['gameDuration'] / 60
+        minionPMin = round(summonerCsKills / gameLength, 2)
+        return minionPMin
 
     if winOrLoss == "Won":
         embed = discord.Embed(title="last game stats for {}".format(summonerName), description=gamemode, color=0x3eeb69)
@@ -232,14 +237,14 @@ async def lastgame(ctx, *, arg):
 
     embed.set_thumbnail(url="http://ddragon.leagueoflegends.com/cdn/9.23.1/img/champion/{}.png".format(championName))
     embed.add_field(name="team", value="{} , played as {} and {} with a KDA of {}".format(teamSide, championName, winOrLoss, kda ), inline=False)
-    embed.add_field(name="team stats", value="towers destroyed: {} \n dragon kills: {} \n baron kills: {} \n first blood: {} \n rift herald kills: {} \n kill participation: {}%".format(thisTeam['towerKills'], thisTeam['dragonKills'], thisTeam['baronKills'], thisTeam['firstBlood'], thisTeam['riftHeraldKills'], calcKillParticipation()))
+    embed.add_field(name="team stats", value="towers destroyed: {} \n dragon kills: {} \n baron kills: {} \n first blood: {} \n rift herald kills: {} \n kill percentage: {}%".format(thisTeam['towerKills'], thisTeam['dragonKills'], thisTeam['baronKills'], thisTeam['firstBlood'], thisTeam['riftHeraldKills'], calcKillParticipation()))
     embed.add_field(name="player stats",value="damage to objectives: {} \n neutrals killed: {} \n wards killed: {} \n damage dealt: {} \n gold earned: {}".format(wantedParticipant['stats']['damageDealtToObjectives'],wantedParticipant['stats']['neutralMinionsKilled'], wantedParticipant['stats']['wardsKilled'], wantedParticipant['stats']['totalDamageDealt'], wantedParticipant['stats']['goldEarned'] ))
-    embed.add_field(name="-", value="champion level: {} \n total minions: {} \n physical damage: {} \n magic damage: {} \n damage taken: {}".format(wantedParticipant['stats']['champLevel'], wantedParticipant['stats']['totalMinionsKilled'], wantedParticipant['stats']['physicalDamageDealt'], wantedParticipant['stats']['magicDamageDealt'], wantedParticipant['stats']['totalDamageTaken'] ))
+    embed.add_field(name="-", value="champion level: {} \n total minions: {} \n physical dmg: {} \n magic dmg: {} \n damage taken: {} \n Cs/Min: {}/min".format(wantedParticipant['stats']['champLevel'], wantedParticipant['stats']['totalMinionsKilled'], wantedParticipant['stats']['physicalDamageDealt'], wantedParticipant['stats']['magicDamageDealt'], wantedParticipant['stats']['totalDamageTaken'], calcCsPMin() ))
 
     await ctx.send(embed=embed)
 
 
 
-bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.XehDaA.nA4CQdi07-xwHQoy9HsIXFviJ8I')
+#run bot command
 
 
