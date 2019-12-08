@@ -27,7 +27,7 @@ async def info(ctx):
     embed = discord.Embed(title="neger bot", description="league of legends is gay", color=0x3eeb69)
     embed.add_field(name="ROAM", value="made using python")
     embed.add_field(name="Server count", value=f"{len(bot.guilds)}")
-    embed.add_field(name="Help command", value=".help")
+    embed.add_field(name="Help command", value="help")
     embed.add_field(name="Invite", value="https://discordapp.com/api/oauth2/authorize?client_id=634462430251974657&permissions=8&scope=bot")
     embed.add_field(name="github", value="https://github.com/woutdt/discordbot/blob/master/discordcommand.py")
     embed.set_thumbnail(url="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjTuJq7rprmAhWMjKQKHcldCAUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.raspberrypi.org%2Ftrademark-rules%2F&psig=AOvVaw05IWS-adSk_PsJcCkjF8cX&ust=1575492873986160")
