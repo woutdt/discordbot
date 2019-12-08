@@ -1,6 +1,5 @@
 discord.py
 requests
-json
 youtube_dl
 os
 asyncio
