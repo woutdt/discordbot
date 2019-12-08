@@ -702,7 +702,7 @@ async def djwannes(ctx):
 
 bot.add_cog(Music(bot))
 #run bot command
-bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.Xe1qjQ.WmuTRN8GjpcpVClBUznghRsCMZ0')
+bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.Xe13WA.lJDGtQg3NLbdRhPa3senCh50AO8')
 
 
  
