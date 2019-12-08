@@ -1,10 +1,4 @@
 discord.py
 requests
 youtube_dl
-os
 asyncio
-functools
-itertools
-math
-random
-async_timeout
