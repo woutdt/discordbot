@@ -1,9 +1,13 @@
 import discord
 import requests
 import json
+import youtube_dl
+import os
+from discord import FFmpegPCMAudio
+from os import system
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix='$$', description='leuke negerbot')
+bot = commands.Bot(command_prefix='.', description='leuke negerbot')
 
 @bot.event
 async def on_ready():
@@ -17,7 +21,7 @@ async def info(ctx):
     embed = discord.Embed(title="neger bot", description="league of legends is gay", color=0xeee657)
     embed.add_field(name="ROAM", value="made using python")
     embed.add_field(name="Server count", value=f"{len(bot.guilds)}")
-    embed.add_field(name="Help command", value="$$help")
+    embed.add_field(name="Help command", value=".help")
     embed.add_field(name="Invite", value="https://discordapp.com/api/oauth2/authorize?client_id=634462430251974657&permissions=8&scope=bot")
     embed.add_field(name="github", value="https://github.com/woutdt/discordbot/blob/master/discordcommand.py")
     embed.set_thumbnail(url="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjTuJq7rprmAhWMjKQKHcldCAUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.raspberrypi.org%2Ftrademark-rules%2F&psig=AOvVaw05IWS-adSk_PsJcCkjF8cX&ust=1575492873986160")
@@ -243,8 +247,93 @@ async def lastgame(ctx, *, arg):
 
     await ctx.send(embed=embed)
 
+#musicbot
+@bot.command()
+async def musichelp(ctx):
+    embed = discord.Embed(title="commands to play music", description="more to follow")
+    embed.add_field(name="join", value="to start playing, invite wannesbot to your current voice channel \n or use: 'j'")
+    embed.add_field(name="play [url]", value="play music from a youtube url \n or use: 'pl")
+    embed.add_field(name="pause", value="pause the music \n or use: 'p'")
+    embed.add_field(name="stop", value="delete the current playing music \n or use: 's'")
+    embed.add_field(name="leave", value="make wannesbot leave the voice channel :( \n or use: 'l'")
+    await ctx.send(embed=embed)
 
+@bot.command(pass_context=True, aliases=['j', 'jo'])
+async def join(ctx):
+    channel = ctx.message.author.voice.channel
+    if not channel:
+        await ctx.send("You are not connected to a negervoice channel")
+        return
+    voice = discord.utils.get(bot.voice_clients, guild=ctx.guild)
+    if voice and voice.is_connected():
+        await voice.move_to(channel)
+    else:
+        voice = await channel.connect()
+    await voice.disconnect()
+    if voice and voice.is_connected():
+        await voice.move_to(channel)
+    else:
+        voice = await channel.connect()
+        voice.is_connected()
+    await ctx.send(f"Joined {channel}")
+
+@bot.command(pass_context=True, brief="This will play a song 'play [url]'", aliases=['pl'])
+async def play(ctx, url: str):
+    song_there = os.path.isfile("song.mp3")
+    try:
+        if song_there:
+            os.remove("song.mp3")
+    except PermissionError:
+        await ctx.send("Wait for the current playing music end or use the 'stop' command")
+        return
+    await ctx.send("This process can take some time....")
+    print("music process started")
+    voice = discord.utils.get(bot.voice_clients, guild=ctx.guild)
+    ydl_opts = {
+        'format': 'bestaudio/best',
+        'postprocessors': [{
+            'key': 'FFmpegExtractAudio',
+            'preferredcodec': 'mp3',
+            'preferredquality': '192',
+        }],
+    }
+    with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+        ydl.download([url])
+    for file in os.listdir("./"):
+        if file.endswith(".mp3"):
+            os.rename(file, 'song.mp3')
+    voice.play(discord.FFmpegPCMAudio("song.mp3"))
+    voice.volume = 100
+    await ctx.channel.purge(limit= 1)
+    voice.is_playing()
+
+@bot.command(pass_context=True, aliasas=['s', 'st'])
+async def stop(ctx):
+    voice = discord.utils.get(bot.voice_clients, guild=ctx.guild)
+    voice.stop()
+    await ctx.send("done playing music")
+    song = os.path.isfile("song.mp3")
+    if song:
+        os.remove("song.mp3")
+
+@bot.command(pass_context=True, aliases=['p'])
+async def pause(ctx):
+    voice = discord.utils.get(bot.voice_clients, guild=ctx.guild)
+    voice.pause()  
+    embed = discord.Embed(title="paused")
+    await ctx.send(embed=embed)
+
+@bot.command(pass_context=True, aliases=['l', 'le', 'lea'])
+async def leave(ctx):
+    channel = ctx.message.author.voice.channel
+    voice = discord.utils.get(bot.voice_clients, guild=ctx.guild)
+    if voice and voice.is_connected():
+        await voice.disconnect()
+        await ctx.send(f"Left {channel}")
+    else:
+        await ctx.send("Don't think I am in a voice channel")
 
 #run bot command
+
 
 
