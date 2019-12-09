@@ -21,6 +21,7 @@ async def on_ready():
     print('Logged in as')
     print(bot.user.name)
     print(bot.user.id)
+    await bot.change_presence(status=discord.Status.online, activity=discord.Activity(type=discord.ActivityType.listening, name=".help", state="ROAM's discordbot", details="discord.py, python, youtube_dl"))
 
 @bot.command()
 async def info(ctx):
@@ -381,7 +382,7 @@ class Song:
 
     def create_embed(self):
         embed = (discord.Embed(title='Now playing',
-                               description='```css\n{0.source.title}\n```'.format(self),
+                               description='```css\n{0.source.title}\n```'.format(self), 
                                color=discord.Color.blurple())
                  .add_field(name='Duration', value=self.source.duration)
                  .add_field(name='Requested by', value=self.requester.mention)
@@ -698,7 +699,84 @@ async def djwannes(ctx):
     embed.add_field(name="stop", value="stops dj wannes from playing music")
     embed.add_field(name="now", value="shows the currently playing song")
     embed.add_field(name="leave", value="dj wannes leaves the voice channel")
+    embed.add_field(name="volume [0-100]", value="changes volume starting from the next song")
     await ctx.send(embed=embed)
+
+@bot.commands(pass_context=True)
+async def games(ctx):
+    embed = discord.Embed(title="gamer wannes' catalogus", description="games are currently programmed only in dutch", color=discord.Color.purple())
+    embed.add_field(name="stp [keuze]", value="keuze uit schaar - steen - papier, let op spelling")
+    embed.add_field(name="guessthenumber [number]", value="gok een nummer tussen 1 en 200, het nummer is hetzelfde voor iedereen en blijft hetzelfde tot geraden m.a.w een nummer 2 keer gokken heeft geen zin")
+    await ctx.send(embed=embed)
+
+bot_choices = ['schaar', 'steen', 'papier']
+
+@bot.command(pass_context=True, aliases=['stp'])
+async def schaarsteenpapier(ctx, choice: str):
+    bot_choice = bot_choices[random.randint(0, 2)]
+    user_choice = choice
+    print(bot_choice)
+    if not user_choice:
+        await ctx.send('```css\n ge moet wel kiezen uit schaar steen papier eh manneken\n```')
+    if not user_choice == 'schaar' and not user_choice == 'steen' and not user_choice == 'papier':
+        await ctx.send('```css\n hebje wel de correcte spelling gebruikt?\n```')
+    
+    win = ''
+    if user_choice == 'steen':
+        if bot_choice == 'papier':
+            win = False
+        elif bot_choice == 'schaar':
+            win = True
+        elif bot_choice == user_choice:
+            win = None
+    if user_choice == 'papier':
+        if bot_choice == 'papier':
+            win = None
+        elif bot_choice == 'schaar':
+            win = False
+        elif bot_choice == 'steen':
+            win = True
+    if user_choice == 'schaar':
+        if bot_choice == 'papier':
+            win = True
+        elif bot_choice == 'steen':
+            win = False
+        elif bot_choice == 'schaar':
+            win = None
+
+    if win == True:
+        await ctx.send('```css\n jij wint {} verslaat {}\n```'.format(user_choice, bot_choice))
+    elif win == False:
+        await ctx.send('```css\n jij verliest {} verslaat {}\n```'.format(bot_choice, user_choice))
+    elif win == None:
+        await ctx.send('```css\n gelijkspel {} = {}\n```'.format(user_choice, bot_choice))
+
+class RandomNumber:
+    def __init__(self):
+        self.number = random.randint(1,200)
+        self.entries = 0
+    
+    def addEntry(self):
+        self.entries += 1
+    
+    def resetNumber(self):
+        self.number = random.randint(1,200)
+        self.entries = 0
+
+numberguess = RandomNumber()
+
+@bot.command(pass_context=True, aliases=['random'])
+async def guessthenumber(ctx, guess):
+    if numberguess.number == int(guess):
+        await ctx.send('```md\n proficiat, juiste nummer geraden \n nieuw nummer gekozen tussen 1 en 200\n```')
+        numberguess.resetNumber()
+    elif not numberguess.number == guess:
+        numberguess.addEntry()
+        await ctx.send('```md\n spijtig, juiste nummer nog niet geraden , {} keer geprobeerd\n het nummer tussen 1 en 200 blijft hetzelfde\n```'.format(numberguess.entries))
+    
+    print(numberguess.number)
+    print(numberguess.entries)
+
 
 bot.add_cog(Music(bot))
 #run bot command
