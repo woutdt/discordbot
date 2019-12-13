@@ -23,25 +23,26 @@ async def on_ready():
     print(bot.user.id)
     await bot.change_presence(status=discord.Status.online, activity=discord.Activity(type=discord.ActivityType.listening, name=".help", state="ROAM's discordbot", details="discord.py, python, youtube_dl"))
 
+@bot.event
+async def on_message(message):
+    if message.author.bot:
+        return
+    print("guild: {} , channel: {}, author: {}, message: {}".format(message.guild.name, message.channel.name, message.author.name, message.content))
+    await bot.process_commands(message)
+
 @bot.command()
 async def info(ctx):
-    embed = discord.Embed(title="neger bot", description="league of legends is gay", color=0x3eeb69)
-    embed.add_field(name="ROAM", value="made using python")
+    embed = discord.Embed(title="ROAM's bot", description="made by Wout De Tollenaere", color=0x3eeb69)
+    embed.add_field(name="ROAM", value="code: python, discord.py, requests, riotApi, youtube_dl")
     embed.add_field(name="Server count", value=f"{len(bot.guilds)}")
-    embed.add_field(name="Help command", value="help")
+    embed.add_field(name="prefix", value=". ==> used before every command ==> [prefix]command")
+    embed.add_field(name="[]", value="variable ==> usually want u want to search (only where needed)")
+    embed.add_field(name="Help command", value=".help")
     embed.add_field(name="Invite", value="https://discordapp.com/api/oauth2/authorize?client_id=634462430251974657&permissions=8&scope=bot")
     embed.add_field(name="github", value="https://github.com/woutdt/discordbot/blob/master/discordcommand.py")
     embed.set_thumbnail(url="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjTuJq7rprmAhWMjKQKHcldCAUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.raspberrypi.org%2Ftrademark-rules%2F&psig=AOvVaw05IWS-adSk_PsJcCkjF8cX&ust=1575492873986160")
 
     await ctx.send(embed=embed)
-
-@bot.command()
-async def neger(ctx):
-    await ctx.send("wannes is een neger")
-
-@bot.command()
-async def nigger(ctx,*, arg):
-    await ctx.send(arg+" is een grote neger")
 
 @bot.command()
 async def homo(ctx, *, member):
@@ -55,23 +56,34 @@ async def koekje(ctx):
 
 @bot.event
 async def on_member_join(member):
-    role = discord.utils.get(member.server.roles, id="634801799076904971")
-    await member.add_roles(member, role)
+    role = discord.utils.get(member.guild.roles, name="new member")
+    guild = member.guild
+    if role == None:
+        await guild.create_role(name="new member")
+        await member.add_roles(member, role)
+    else:
+        await member.add_roles(member, role)
+    await member.guild.send('{}, just joined the server, hello!'.format(member.name))
 
 bot.remove_command('help')
 
 @bot.command()
 async def help(ctx):
-    embed = discord.Embed(title="leuke negerbot", description="all commands available right now:", color=0x3eeb69)
+    embed = discord.Embed(title="24/7 uptime coming soon", description="all commands available right now:", color=0x3eeb69)
 
-    embed.add_field(name="neger", value="replies with: wannes is een neger", inline=False)
-    embed.add_field(name="nigger naam", value="naam = parameter => 'naam' is een neger", inline=False)
-    embed.add_field(name="koekje", value="<:hondekoekje:615167466259087370>", inline=False)
     embed.add_field(name="info", value="info about this bot", inline=False)
-    embed.add_field(name="homo @naam", value="naam= parameter => @naam is een homo")
-    embed.add_field(name="summoner ---naam----", value="veel uren werk", inline=False)
-    embed.add_field(name="djwannes", value="run this command for help with the musicbot")
+    embed.add_field(name="leagueoflegends", value="te moe voor een beschrijving fk dit ~ 3u 30 (AM)", inline=False)
+    embed.add_field(name="djx", value="run this command for help with the musicbot")
 
+    await ctx.send(embed=embed)
+
+@bot.command()
+async def leagueoflegends(ctx):
+    embed = discord.Embed(title="league of legends API", description="all commands available right now", color=0x3eeb69)
+    embed.add_field(name="summoner [name]", value="short summary of your profile")
+    embed.add_field(name="mastery [name]", value="gives your highest mastery champions")
+    embed.add_field(name="lastgame [name]", value="gives details about your last game")
+    embed.add_field(name=" \n more to follow", value="in the future....")
     await ctx.send(embed=embed)
 
 headers = {
@@ -702,12 +714,19 @@ async def djwannes(ctx):
     embed.add_field(name="volume [0-100]", value="changes volume starting from the next song")
     await ctx.send(embed=embed)
 
-@bot.commands(pass_context=True)
+@bot.command(pass_context=True)
 async def games(ctx):
-    embed = discord.Embed(title="gamer wannes' catalogus", description="games are currently programmed only in dutch", color=discord.Color.purple())
+    embed = discord.Embed(title="game ROAM's catalogus", description="games are currently programmed only in dutch", color=discord.Color.purple())
     embed.add_field(name="stp [keuze]", value="keuze uit schaar - steen - papier, let op spelling")
-    embed.add_field(name="guessthenumber [number]", value="gok een nummer tussen 1 en 200, het nummer is hetzelfde voor iedereen en blijft hetzelfde tot geraden m.a.w een nummer 2 keer gokken heeft geen zin")
+    embed.add_field(name="roll [max]", value="random getal tussen 0 en [max]")
+    embed.add_field(name="guessthenumber [number]", value="gok een nummer tussen 1 en 200, het nummer is hetzelfde voor iedereen en blijft hetzelfde tot geraden m.a.w eenzelfde nummer 2 keer gokken heeft geen zin")
+    embed.add_field(name="\n ideën voor meer games?", value="--> .idee [idee]")
     await ctx.send(embed=embed)
+
+@bot.command(pass_context=True)
+async def idee(ctx, idee: str):
+    f=open("idee.txt", "a+")
+    f.write("idee : {}".format(idee))
 
 bot_choices = ['schaar', 'steen', 'papier']
 
@@ -755,6 +774,7 @@ class RandomNumber:
     def __init__(self):
         self.number = random.randint(1,200)
         self.entries = 0
+        self.roll = 0
     
     def addEntry(self):
         self.entries += 1
@@ -762,25 +782,34 @@ class RandomNumber:
     def resetNumber(self):
         self.number = random.randint(1,200)
         self.entries = 0
+    
+    def fromRange(self, fromto):
+        lastPoint = fromto
+        self.roll = random.randint(0, lastPoint)
+        return self.roll
 
 numberguess = RandomNumber()
 
 @bot.command(pass_context=True, aliases=['random'])
 async def guessthenumber(ctx, guess):
     if numberguess.number == int(guess):
-        await ctx.send('```md\n proficiat, juiste nummer geraden \n nieuw nummer gekozen tussen 1 en 200\n```')
+        await ctx.send('```cs\n proficiat, juiste nummer geraden \n nieuw nummer gekozen tussen 1 en 200\n```')
         numberguess.resetNumber()
     elif not numberguess.number == guess:
         numberguess.addEntry()
-        await ctx.send('```md\n spijtig, juiste nummer nog niet geraden , {} keer geprobeerd\n het nummer tussen 1 en 200 blijft hetzelfde\n```'.format(numberguess.entries))
-    
+        await ctx.send('```cs\n spijtig, juiste nummer nog niet geraden , {0} keer geprobeerd\n het nummer tussen 1 en 200 blijft hetzelfde\n```'.format(numberguess.entries))  
     print(numberguess.number)
     print(numberguess.entries)
 
+@bot.command(pass_context=True)
+async def roll(ctx, fromto: int):
+    setRange = fromto
+    randomnumber = numberguess.fromRange(setRange)
+    await ctx.send('```cs\n you rolled: {0} \n```'.format(randomnumber)) 
 
 bot.add_cog(Music(bot))
 #run bot command
-bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.Xe13WA.lJDGtQg3NLbdRhPa3senCh50AO8')
+bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.Xe7LHw._k-_uS47aclUU8GR6EjTDoIJyYg')
 
 
  
