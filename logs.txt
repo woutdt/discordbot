@@ -1,0 +1,1430 @@
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: nog nietguild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .idee tester yoloswag 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: aiighttt 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: eindelijk 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: idee wordt opgeslage in text file hehe 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: kanik die achteraf altijd leze 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: da nice eh 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .info 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: test logs 1 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .info 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .help 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .djket 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .games 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: ```cs games --> help command ``` 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .help 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: beter 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: beter inline gezet dedju 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: ff aanpassae 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .help 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: mooi 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .djket 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .join 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .play triple helix 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .volume 50 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .now 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .pause 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .resume 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: mmm 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: ni volledig zoals gepland 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .play killy starstream 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .play mercedes baby tyga 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message: .queue 
+guild: ZIx0 , channel: tijdelijk_bot_test_channel, author: ROAM, message:  
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message:  
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ah jooow hahaha 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: kben ff aant teste werkt 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: allml perfect 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: voila 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: nu kunge alles ook aanpasse enz 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .info 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .help 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ..djket 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .djket 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message:  
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .play fireflies killy 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Aait 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .skip 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: bij mn musicbot 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: is er 1 belangerijk ding 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Dope man 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: alsdie nog ni 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: in een voice channel zit eh 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: moege altijd .join doen 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: anders crasht hij 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Ja cva 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: en dan moede wachte tot ik em heropstart haaha 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Hahaha shit 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: kwni hoek da kan fixe 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .djket 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: da zijn commands voor music 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ja meeste is int engels 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: omda 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ik geen nederlands publiek verwachtte eh aahah 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ma gelijk 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .games 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: is wel nederlands 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .stp schaar 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .roll 200 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .guessthenumber 117 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Haha wat is da 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: gwn 3 kleine spellekes 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: schaar steen papier 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: roll is random nummer tusse 1 en wa gij wilt 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: en guessthenumber is een getal tusse 1 en 200 rade 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: en da getal blijfet zelfde tot alset gerade is 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ma ik kan rap ff kijke welk getal da iswant da kom in de console haha 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: .stp steen 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .leave 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: leave doe de musicbot ff uit de channel trnws 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ale uit de voicechannel eh 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Cva 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: tnummer is 53 trnws 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: probeer maar 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: da veranderd telkens eh 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ale telkes dat gerade is 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: dus nu gaaket 'rade' 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Maak anders apparte comment chat 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .guessthenumber 53 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: nu iset nummer 2 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: .guessthenumber 2 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Hahah 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: jaa mss best 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: anders wordda ier spam 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Ja 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .info 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: alsge de code wil zien indie bot 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: moege op die onderste link drukke 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: die nr github gaa 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: 820 lijne code 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: .info 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: .help 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: .djket 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: ALTIJD EERST .JOIN GEBRUIKE VOOR GE MUZIEK BEGINT TE SPELEN!!!!!!! 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: alaise 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: weetge hoe roles enz werke 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Nie egt 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: alsge nrserver roles ga 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: kunge der toevoege 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: en dan kunge die aan mense toevoege die roles 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: gelijk gij heb nu kyro role 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: da beteken 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: kheb u alle machtigigngen enz gegeve 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: dus gij kun alles doen 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: en gij wor zo rechts apart van anderen weergegeven 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Da weet ik 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ahja voila 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Wacht kga keer op u teste 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ja cv 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: khad al roles voor luca en une vriend gemaakt ookt 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Kweet oe dade een rol maakt en oe dade Em toepast ma ik kan Da nie op u doen omdade eigenaar zijn 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ahja 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Ma komt in orde 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ma kzal eigenaarschip naaru transfereren 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: want ikheb da inprincipe toch 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: die bot kan alles eh 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Cva 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: als ik beslis da die een random server verwijderd waardie inzit 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: dan kandie da doen hahaha 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: das echt OP 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Ja 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .info 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp papier 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: voila 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: nuzjgij eigenaar 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: trnws die roles kunge zo verslepe 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: en wage hoogst zet is belangerijkst 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: die toone ook hoogst rechts 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: en lager --> minder belangerijk 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: die .roll hebk er vooral ingestoke als 2 mense zo gelij hoedje op moete doen ofso 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: zo 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .roll 100 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .roll 100 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dan wint den eerste 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Ahb 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Stp.papier 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp papier 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: ```diff bot is niet 24/7 online alleen als mijn pc aanstaant eiglk , mischien binnekort wel 24/7 ``` 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: kut 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: ```diff
+bot is niet 24/7 online alleen als mijn pc aanstaant eiglk , mischien binnekort wel 24/7
+ ``` 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: ```diff
+- bot is niet 24/7 online , alleen als mijn pc aanstaant , mischien binnekort wel
+``` 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ait 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: eindlk 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .join 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .play killy triple helix 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp steen 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play killy triple helix 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .roll 10 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .leave 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .join 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .play killy triple helix 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .roll 10 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kheb ooknog zowa verborge commands haha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: die kunde leze inde code das zo vantoen ik gestart was medezen bo 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: bot 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en die hebik achteraf gwn uit de .help command verw 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .help 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: maarni uitde code 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: bv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .homo <@!220116580992942081> 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: hahahahaha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ´´´diff 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Hahaha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ```diff
+ - doege door .homo @naam
+``` 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Die bot sebiet op zen muile 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .homo <@!154580858207076353> 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: hahahah 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .homo <@634462430251974657> 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: hhahaha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: tagt die zn eige 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .koekje 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das nog zo 1 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das zn wel de enigste daker nog ingelate heb 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: de andere ware efcht te waardeloos 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: deze doege door 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ```diff
+- .koekje
+``` 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .koekje 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en dan hebge nog 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: de league of legends commands 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: madie zn ni echt van toepassing hier 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: swe kunne we zien nr wannes zn recente games 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .summoner wanninator 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: of niet 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .summoner FocusMyRoam 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: amai komt ookgoe achter 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: da benik 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: nu mn broer 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: euhm wasdie zn naam 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: tis just 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .summoner DramaticRager 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Zot man 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .mastery DramaticRager 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: die music bot is nog altijd gekste 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: da was echt 500 lijne code voor nodig 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ale ma ikga ispitte 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kzienu morge eej 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: betekent wel dadie bot mee offline ga gaan 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: want tot nu toe runt die gwn op mn pc 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dies nog nerges ge host ofso haha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: juuuu slaapwelll 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Cioa 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .slaapwel 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .slaapwel 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: haha tis nog lache 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: praktisch 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .slaapwel 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ah kga nog programmere da mn bot die message van .slaapwel moe verwijdere 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dan gaak pitte juuuuuw 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Juuu 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .slaapwe 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .slaapwel 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: voila 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .slaapwel 
+guild: ZIx0 , channel: minecraftboys, author: lucadb2002, message:  
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Schou bot naamke 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ahahaha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .infoi 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .info 
+guild: ZIx0 , channel: minecraftboys, author: FleXx_twar166X, message:  
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ja tis wel grotendeels engels want khad ni verwacht da nederlands mense die gingre grebruike eh 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .djket 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ja maja ik kan da toch hellemaal niet 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das voor de muziek 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Lol 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ge moe altijd 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: eeerst join doen 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: eh 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: voorge play doet 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: anders crasht die 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Hoe kan ik same me die bot in party zitte 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: doe .join$ 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en dan .play en een lied naam 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: wacht iktoojn voor 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play triple helix 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dan hebge queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play doomsday 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ziek dus wa moek intype voor een liedje 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .remove 1 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .play dickhead 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ja dus gwn .play en eenliedje 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: jaak 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en dan .queue 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: En hoe skip ik 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: om de queue te zien 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Hallo 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das .skip 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en verwijdere uit queue is .remove en nr van da liedje 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dus stel 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play bob de bouwer 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play no sad no bad 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .remove 1 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Haha 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .remove1 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .remove 1 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: 1 moe spatie tusse 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ja zo 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Haha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Lol 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .queue niggas in paris 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: nee play niggas in paris 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .play 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .join 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .play dickhead 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play niggas in paris 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: mawa hahahahaha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .djket 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ahja ge heb ook nog .pause 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en .resume 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: spreekt voor zich 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .pause 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: probeer nu isopnieuw 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ah kheb daar geen permission voor 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .skip 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: alleen administrator kanda doen peisk 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .skip 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: moek die skipvotes wegdoen ofni 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kwou da gwn keer probere 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .queue thiago silva 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ma das dage 2 votes moe hebbe alsgij da lied ni hebt aangevraagd om te skipp 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Nee das wel oke 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dus alsgij heb aangevraagd kunde direct skippe 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ma nee doe gwn 1 vote 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: maja alsgij vote 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: isda al 1 vote eh 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Aja oke cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dus eiglk heb ge 1 iem anders nodig 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .queue thiago silva 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Hoezo kent die da ni 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: nee gr moe gwn play doen 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: da ga automatischin queue 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play thiago silva 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: queue is gewoon om queue te zien 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ja voila 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Alleez 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play ik zag je 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .now 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: toont wa er nu speelt 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Allez kga wa lere ma die muziek 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: hahaha cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en .loop loopt de queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ma die sta nogni in die help ding 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: omda die eerst ni wertkte 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .loop 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Was die loop 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dus 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: da ge de queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: opnieuw afspeelt 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: alstij gedaan is 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Aja zo 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en alsge da wil annulere 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: moe ge weer 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dan moede weer .loop doen 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: oke kut 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .loop 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: doetet tochnog ni gaagahah 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Wow wa gebeurde er 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: die loop wertk duidelijknognu 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ah haha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: nogni gebruike haha 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kzal da keer fixe alsik goesting heb want das genen gemakkelijke 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: geheb ooknog .volume 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dus bv .volume 75 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .volume 75 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play tribe 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ma da werkt pas vanaf het volgende liedje 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ja cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dus dit liedje speelt nog op de volume datwas volgende ga op 75 spele 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ga da dan ni luid zijn haha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kwni kdenk dat nu op 50 stond 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .volume 50 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .skip 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Das wel te nice voor als we mc gaan spelen 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ja eerlijk 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das da handig eh 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: nbeetje muziek opden achtergrond 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: trnw 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dr zn nogwa commands z 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .games 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ma das wa probeersels haha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .roll 100 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Alle ahha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .guessthenumber 150 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Voor te pigonne 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: hahaha voikla 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .roll 6 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .roll 12 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ja wout links van u zuipe 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .role 12 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ahhahah 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .roll 12 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: 2 slokskes pigon 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .roll 12 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en dan hebge nog zzo de commands die de bot allemaal begonne zijn haha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .homo <@!226410117808128000> 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .slaapwel 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: die hebik gister rap toegevoegd 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Wa haha hoezo 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: <@220116580992942081> 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ah haha wa hoe doege da 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: doe keer .homo <@!220116580992942081> 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en .koekje 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .koekje 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .homo@kyro 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en slaapwel is .slaapwel 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: nene spatie tusse 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .homo 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .koekje 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .slaapwel 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: -- .homo <@!220116580992942081> 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .homo <@!226410117808128000> 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .homo<@220116580992942081> 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: tusse homo en @ spatie hahaha 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .homo <@220116580992942081> 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: jazo 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .Homo <@220116580992942081> 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Oke hahaha 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .homo <@220116580992942081> 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Jaja hahaha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kga keer 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kijke of 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ik ietsvan minevcraft kan krijge van data 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dan kanik bv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: zo dingetoevoege inde bogt 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: bot 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ja cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ichzie ng 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Hoe leave ik 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Uit party haha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: eerst 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: bot leave 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en dan druk 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .bot leave 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: op zo da telefoont sluite 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en dan hebge zo telefoont 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: me een kruisje 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message:  
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ma gij zit op gsm wrschnlk 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Kheb et 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ma op mn gsm wasda wel anders 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ahja cv cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message:  
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: trwns aldie gesprekke worde gelogd naar 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: deze file 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: sinds gistere 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das gwn voor een levelsystem te probere make 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: da ge zo level krijgt me hoeveel ge spreekt enzs 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: daar benik nu mee bezig 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: iemand mc sessie? 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: hahaa 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: shalom 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: shalom 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .join 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: ge moe 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .djket 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .play undertail a battle against a true hero 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: epik naam toch 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: hzo hoor ik da beest nie 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .volume 100 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: khoor niks 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .resume 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: vaag 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: kga mn broer stalken w8 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .die 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .killyourselves 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .jump of a bridge 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .idee wout u music bot werkt ni 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: join mij 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .neger <@!266645572222451713> 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: miss ligt et aan mij ofzo 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: $$neger <@!266645572222451713> 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: wrm werkt da ni meer aleee 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: hoe doe ge die read command van discord 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: khoor da wel 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: ik hoor niks wjw 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: khoorde u ook nie 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: nu wel? 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: nog alt nie 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: ste u geluid van u pc wel aan? hahah 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: uiteraard 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: btw onze blaze farm op skyblok werkt wel eh 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: hahaa 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: youtube hoor ik wel 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: en nice 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: nu hoor ik et wel 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: vreemde dinges 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: ahahhaa 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: gg 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .now 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .neger <@!266645572222451713> 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .hope aa 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .homo aaa 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: NIGGA 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: hahahaahahahahahaahahahahahahaha 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: @@@@@@@@@@@@@@@@@@@@@@ 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: ########## 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .neger <@!266645572222451713> 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: wannes eet aars 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: nikker 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: suck mij big toe with your anus 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: suck my aarsvocht 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: steek oe big toe in ouw anus 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: ik weeg wel 100 kilo ea kut 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .play heyyayayayayaa 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .slaapwel 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .homo <@!266645572222451713> 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .neger <@!266645572222451713> 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .neger wannes 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .neger @everyone 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .djke 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .djket 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .volume 100 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .help 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .games 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .summoner DramaticRager 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .roll 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .roll 2000 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .roll [7] 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .roll 100 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .guessthenumber 69 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .guessthenumber 55 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .guessthenumber 60 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .guessthenumber 1 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .guessthenumber 69 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .guessthenumber 2 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .guessthenumber 3 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .guessthenumber 4 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .guessthenumber 5 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .leagueoflegends 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .mastery roggenrola69 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .mastery wanninator 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .mastery DramaticRager 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: .mastery Zöe 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: leveltest 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: xp test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: xp test 2 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: ait xp is er 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: per bericht 50 xp 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: nu levels make 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: we doen 5 xp per bericht 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: anders te grote getalle 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: another tet 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .info 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: ok 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: ait 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: commands telle ni mee bij xp 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: aitt 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: kmoe ff wete wa ctx allemaal heeft 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: nu wa ctx.author allemaal heeft 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: nu de id 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: nog is 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: @wannes 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: <@&614053659462074369>  daarbij das een herbruikbare functie 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: ik kan die bv in de .level command terugroepe om mn level te wete 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: wa moeilijker zou gegaanzijn bij u ding 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: wanninator 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: zet u keer inde database 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: door bericht te sture 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Hahaha <@328843650438135808> 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: Republic Wadiya , channel: general, author: Matthias, message: Wtf is die keth bot 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ketamine 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: ge heb nog niksgzgd eh 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: dan stade nog ni inde database mongol haha 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: DramaticRager, message: Koenkies 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: DramaticRager, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: mwhahahahaha 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Mn broer eef da gemaakt 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: waarom werkt die kleur ni wtf 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: .neger <@328843650438135808> 
+guild: Republic Wadiya , channel: general, author: Matthias, message: Ah zo 
+guild: Republic Wadiya , channel: general, author: Matthias, message: Haha 
+guild: Republic Wadiya , channel: general, author: Matthias, message: Ahja 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ahaha 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: .level 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: .djket 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: kutzooi die kankerkleure wtf 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: moeku level 69make 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: .play heyyayayayayayaya 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: A 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Aa 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: A 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: A 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: a 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: doe keer level wannes 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: zo bot runt weer normaal 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: roam 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: roam 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: roam 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .drop 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: riam 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: test 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: tets$ 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .join 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: .play heyeyeyey 
+guild: Republic Wadiya , channel: minecraft, author: Matthias, message: Pj? 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: jha 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: khoor u nie 
+guild: Republic Wadiya , channel: minecraft, author: Matthias, message: Ah zo raar 
+guild: Republic Wadiya , channel: minecraft, author: Matthias, message: Ik u wel 
+guild: Republic Wadiya , channel: minecraft, author: Matthias, message: Ma kzit in bad 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: heb gy nu al geleerd 
+guild: Republic Wadiya , channel: minecraft, author: Rubengastjeuh, message: Geil 
+guild: Republic Wadiya , channel: minecraft, author: Matthias, message: Nee haha 
+guild: Republic Wadiya , channel: minecraft, author: Matthias, message: Van mn bad ofwa 
+guild: Republic Wadiya , channel: minecraft, author: Rubengastjeuh, message: Bijvoorbeeld 
+guild: Republic Wadiya , channel: minecraft, author: Rubengastjeuh, message: Kmoe weer gaan werken daaaag 
+guild: Republic Wadiya , channel: minecraft, author: Matthias, message: Jooo 
+guild: Republic Wadiya , channel: minecraft, author: roggenrola64, message: jooo 
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message:  
+guild: Republic Wadiya , channel: league-of-legends, author: Matthias, message: Allee klote da lukt dus nie eh 
+guild: Republic Wadiya , channel: league-of-legends, author: Matthias, message: Ma gistere kon ik wel voice via mn gsm 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Stuur ns iets 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: shalom 
+guild: Republic Wadiya , channel: league-of-legends, author: Matthias, message: Wa 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .play feliznavidad 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message:  
+guild: Republic Wadiya , channel: minecraft, author: DramaticRager, message: jooo 
+guild: Republic Wadiya , channel: league-of-legends, author: ROBBELEGEND, message: -play christmas mix drum and bass 
+guild: Republic Wadiya , channel: league-of-legends, author: ROBBELEGEND, message: -play christmas songs drum and bass mix 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .play felizna vidad 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -stop 
+guild: Republic Wadiya , channel: league-of-legends, author: ROBBELEGEND, message: .play a good day natural born deejays 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play triple helix 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play starstream killy 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play fireflies killy 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play everybody dies in their nightmares 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play xo tour life 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play benz truck lil peep 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play moonlight 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play sad xxxten 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .remove 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .remove 7 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play triple helix 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play jocelyn fllores 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play bury me alive kevin 
+guild: NEGERS , channel: only-real-nikkers, author: ROBBELEGEND, message: .play white line 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play een lied 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .remove 7 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .remove 8 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .remove 7 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play bury me alive 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: .level 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: - .ranking komt nog 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: benik nu mee bezig 
+guild: ZIx0 , channel: bot-help-channel, author: ROAM, message: per bericht krijge xp 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play triple helix 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .skip 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play startstream killy 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: hiere 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: nog beetje mc 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ofni 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .level 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .play ik val van de trap af 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ge krijg een level vanaf dageu eerste normale bericht stuur trnw 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .volume 100 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .join 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .play ik val van de trap af 
+guild: Republic Wadiya , channel: league-of-legends, author: ROBBELEGEND, message: .play nieuw huis + extreme val!! timo klop 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .stop 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .left 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play jocelyn flores 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .djket 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .stop 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leave 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .play ik val van de trap af mix 
+guild: Republic Wadiya , channel: league-of-legends, author: ROBBELEGEND, message: .play the best song drum and bass 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .stop 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .clear 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .resume 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .djket 
+guild: Republic Wadiya , channel: league-of-legends, author: ROBBELEGEND, message: .play drum and bass mix 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Ja ik kom mc 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: W8 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Kga men pc pakke 
+guild: Republic Wadiya , channel: league-of-legends, author: ROBBELEGEND, message: -play nieuw huis + extreme val 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: aitt 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Ge kunt de wereld al joine 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kga eerst rap keer douce cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: douche cv 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kom luca ofni 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: 5min eh 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Kga El sturen 
+guild: NEGERS , channel: only-real-nikkers, author: ROBBELEGEND, message: -play last christmas 
+guild: ZIx0 , channel: bot-help-channel, author: Kyro, message: aait 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .play ik val van de trap af 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .skip 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -join 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -play ik val van de trap af 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -play van de trap afgevallen(earrape) 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -play https://www.youtube.com/watch?v=-HVV5pO7MF4 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -skip 
+guild: NEGERS , channel: only-real-nikkers, author: ROBBELEGEND, message: skip 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -skip 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: py discordcommand.py 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .volume 25 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play killy startstream 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play triple helix 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .volume 25 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play benz truck 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play everybody dies in their nightmares 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play all girls are the same 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .level 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play save that shit lil 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play reunie snelle 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play koning liefde 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play IT G MA remix 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play redrum reverse 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play ski mask smokep 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play pop out 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play pure cocaine 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play no sad no bad 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play doomsday 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play mwaka moon 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play pull up lil mosey 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play burburry headband lil mosey 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play chingy amine 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play chameleon flow yung mavu 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play witchblades 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play ransom lil tecca 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play killimonjaro killy 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play spotlight 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play megaman tay k 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue$ 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .play ok boomer 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .restart 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .clear 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .help 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .djx 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: now 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .now 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play tribe 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .next 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .skip 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: play.jartexnetwork.com 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Wout 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Stuur alsge terug zijt 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: /is accept Uncle_Tamir 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .join 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Pause 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .pause 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play triple helix 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play megaman 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play stunna4real 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play witchblades 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play paper planes 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play chill bill 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play betrayed 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play rockstar post 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play ric flair drip 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play moonlight 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play all girls are the same 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play better of dying 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play better now 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play everybody dies in their nightmares 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play lucid dreams 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play smoke sum 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play tiktok 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play walou crisis 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .shuffle 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .remove 10 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play herres sevn 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play af en toe lil kleune 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play gorik pt1 zwangere 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .now 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play legends never die 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play assi anbu 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play suge 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .shuffle 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .skip 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play aladeen moterfucker 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -join 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play aladeen moterfucker 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: .play show me your genitals 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play show me your genitals 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play e=mc vagina 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: wow mn wifi doe kut 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp steen 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp papier 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .info 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .homo <@154580858207076353> 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play memories maroon 5 
+guild: Republic Wadiya , channel: league-of-legends, author: ROBBELEGEND, message: -stop 
+guild: Republic Wadiya , channel: league-of-legends, author: Matthias, message: Oh zalig da schijfke 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play memories maroon 5 
+guild: Republic Wadiya , channel: league-of-legends, author: ROBBELEGEND, message: -play big orgus 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: kom mee luisteren matthias 
+guild: Republic Wadiya , channel: league-of-legends, author: Matthias, message: Kben aznt belle me zythz 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: saaiii$ 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: Zytha<schijfkes luitstere me de boys #NOHOMO 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: da ze ook in discord komt ea 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -play https://www.youtube.com/watch?v=-HVV5pO7MF4 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -stop 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -resume 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -play https://www.youtube.com/watch?v=-HVV5pO7MF4 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp papier 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .ranking 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ranking is wel over alle servers waar mn bot inzit 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kheb geen goesting ommij daarmee bezig te houdde da da per server apart is 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ahja 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en ikga mij ff vandie ranking verwijdere hah 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .ranking 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message:  
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Hoe krijg ge punte 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: En wrm ken ik de naam rubengastjeuh van ergens wtf 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .stp blad 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .stp papier 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Das gwn clipped die shit 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ge heb punte gekrege 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: door gwne dinge te type 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: per berocht dade stuurt 5 punte 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en das ne vriend vab mn broer 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en kga ni liege 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das ruben van seppe 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: van wete nog dajullie ruben allemaal chill vonde 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das legit die kerel die sblijve zitte en die zit bij m  broer inde klas ni 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: baa haha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kijk 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .ranking 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: nog 5 berichte en ge zei level 2 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .level 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .help 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Hahaha waaa 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Drm zowiezo 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Die noemt sws op iets anders ook rubengastjeuuh 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .level 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: tsou kunnen 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ik gaa kkr dik ouwe 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: hahaha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: zeg nog 1 bericht 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dan is lvl up message nrml 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ge heb nu 45 xp 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: trwns 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: bij queue hebk toegevoegd 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dage alle paginas kun zien 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dus da toont 10 liedjes per pagina eh 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en alser dus benede staat 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: pagina 1/2 ofso 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dan moeg eom pagina 2 te zien 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 2 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: doen 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .level 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ewa 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Jeeej 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Haha 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .rank 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .ranking 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Hoezo hebt gij zel 1miljoen wout 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .ranking 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: .join 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: shallom 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: .play last christmas 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: omda 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: da in een database staat 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ale 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: die database is van mij eh 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ik heb da systeem geprogrammeerd eh van die xp per bericht en 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das ni wa discord vooru doet eh 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: dus ik kan die waardes aanpasse hoe danek wil eh 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kanekik u ookzoveel geve ze haahah 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .summoner Rubengastjeuh 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message:  
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das geheel deze code 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ale die aangeduid sta 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: das de code die u xp geeft per bericht 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .join 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .join 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .play defcon 1 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .queue 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: hij speeltni precies 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: wacht eh 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .resume 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .stop 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play defcon 1 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: voila 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Thx 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: snikss 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Das 3 uur wtf 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: blijkbaar haha 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .invite kyrox 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Nevermind XD 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: <@!220116580992942081> 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .pause 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ahja 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ge moe daar admin voorzijn 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .pause 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Kom party 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Kenny 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Lig in mijn bedde 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Sta dan op en loop naar u ps 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Nah kga eerst vreten en hoe levelt ge in deze EXP SHIT 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: mmm 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Door te typen 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: gwn berichte 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: sture 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leabe 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Aah nicu 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .ranking 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Per bericht krijgde xp 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ge he t nog 3 berichtr nodig 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: voor lvl 2 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: per bericht 5 xp 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Hahahah 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Da word Ier gwn een typ spelleke 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: hhahaha 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: HELP 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: <@488445764075520021> me wa 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: KWORD VERKRACHT DOOR EEN VROUW XD 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Hahaha 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Haha snel stuur de mama 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Oh yeah level 2 bitches 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Nu ben ik grote teef 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Uh neef 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .ranking 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: 120 is level 34 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: 3* 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Nicr 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .ranning 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -join 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .play last christmas 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -play last christmas 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Hahaha 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Teef 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .ranking 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .join 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp papier 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp steen 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .play 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp papier 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .join 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .roll 20 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .play sound becomes two 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .roll 30 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Hell yeah boy party in the voice chat 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -play gimme gimme your 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -play https://www.youtube.com/watch?v=aNeD52L0ZA4 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .invite <@220116580992942081> to voice chat 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -skip 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .stop 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: .pause 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: FUCK 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Ketamine stop the song or i destroy you 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: FUCK 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Kenny do you like this server 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leave 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: .play opgelet je moet de tractor voor laten gaan 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: -leave 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Yes i very much like this server and i will like it even more when i can bang with ketamine 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: XD 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Hahahaha 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Haha man kga straks beetje livestreamen denk it 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Nice 
+guild: Republic Wadiya , channel: league-of-legends, author: ROBBELEGEND, message: .play buurman mol 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Kga dan ver komen 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: bruh 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: wiskunde is echt ez 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: kben al klaar me mn samenvatting XD 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ik ga vnvnd minecract 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Zo rond 5 uur ofzo 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Ik ook 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Kenny ik kom sebiet 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Kom nu kan maar een uurke 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Ik moe studeren 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Ge zit op fifa 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Ja daar just 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Mijn PS stond gwn nog aan 
+guild: ZIx0 , channel: bot-commands, author: FleXx_twar166X, message: Ahja succes 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Merci moat 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: + 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: Kweet et verdomme 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: <@!614096860214460426> kzen der over 30 min 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: <@!381048593911382026>  potje lol? 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: kom 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: ga gunder allebij support 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: ik hoor under heel de tijd in stukken 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: doe ge mee of nie 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: kwil wel maja 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message:  
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message:  
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: twordt beter en beter 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .join 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: http://crashsafari.com/ 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .play last christmass 
+guild: NEGERS , channel: bot-test-server-tijdelijk, author: ROAM, message: .ranking 
+guild: Republic Wadiya , channel: league-of-legends, author: Matthias, message: Noooo 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .info 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: .stp schaar 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: vanavond beetje mc ofni 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kben wel weg tussen 8 en 12 ofso 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Kga naar piccaso 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ma daarna zenek wel terug 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ah cv cv 
+guild: ZIx0 , channel: bot-commands, author: Kyro, message: Ma voor 8 uur cva 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ja cv cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kmoe eerst nig nr de post enz 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: tege 4U ofso kanek 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Dan gaak meedoen 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: airt 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: aitt 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ik en viktor zijn nu aant spele 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kga rap douche en nr de post 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: en k kom ook 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: We zijn er nog 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ah aitt 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Haha 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: call hier? 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Oke viktor ni 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ma we zijn nu ge kickt 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ikni 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: kzit er nog inman 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: Ma viktor ging denkik gwn schijte ofzo 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ahja cv 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: ma zn wereld sta tnog open ze 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: waarblijfde 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .join 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play tribe 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play witchblades 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play lose yourself 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play mockingbird 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play when im gone 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play click clack 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play legends juice 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play juice legends 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play kankertaleny 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play ms jackson 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play herres altijd herres 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .skip 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play panamera 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play als ik drop 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .join 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play 1hour ncs 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .play 1 hour ncs 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .play feliz navidad 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .play  last christmass 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .next 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .djket 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .play let it snow 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .leave 
+guild: ZIx0 , channel: bot-commands, author: ROAM, message: .join 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play mama appelsap 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .skip 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play twijfel 
+guild: ZIx0 , channel: bot-commands, author: lucadb2002, message: .play lil peep playlist 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: KOMM 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: i here 
+guild: Republic Wadiya , channel: general, author: stefdm, message: Pj komt alsk weg ben van bij hem 
+guild: Republic Wadiya , channel: general, author: roggenrola64, message: -join 
+guild: Republic Wadiya , channel: general, author: roggenrola64, message: -play https://www.youtube.com/watch?v=FAMU6md_Hc4&t=4s 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: -stop 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: cv 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: omda die gay zijn 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: en hun te goed voelen 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: hahahahahahah wtf chiel 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: 200 000 pts en rank 6 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: Profkoekenbakker 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message:  
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ist een beke aant lukken? 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: neeje hahahaha 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Oei 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: ga eerste item duskblade he 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: En ga die midlaner pesten 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Me u. Ult 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: woorden terug kga beest zeven kills 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Od en hoeveel deads? 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Kga meekijken en mezelf muten enal 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Wtf die dmg 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Howly fuckkk 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Probeer ni de tanks te focussen 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: das tank he 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ja 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: kwou het tankje te graag 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Eh moete wij eig nog nr sgool. 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: nee 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Aah vet 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Morge dagje leak knallen? 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: F voor tristana 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: F 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: f voor mij 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ja 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: F 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ga na u item youmous 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Gekke double kill 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: gekke kills 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Kijk gold 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Od 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: record 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: ma kmoe meer farme 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Alles goed behalve minions 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ja 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: ma fighten is leuker 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Logisch haah 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: keirel 16 kills 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: das echt goe voor mij 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: khad 20+ gehad als die mundo er nie was 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ja weet 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Egt vet 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: .ranking 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: yes yes 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ik noem DramaticRager gvd 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Was ff gecrashed 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Hahahaha f en el chat 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: ja hahahah 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ga is naar loot, da kistje rechtboven 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Gij kunt die shards sellen 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Als gij bleu essence nodig hebt eh 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: nee mss wil ik die oot 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: ooit 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Hoe komt gij aan 2 gemstones wtf? 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: suckt he 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Nee 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: kheb die uit zo kistje 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Da zijn meest zeldzame shit da gij kunt krijge 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Scrooll nr onder hahaha 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Chest 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: yes yes 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Oke das egt sad 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Kut 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Slecht 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: saaaai 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: kut box 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ja idd 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Kunt gij geen keys me die prestige points kope? 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Geen commentaar 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Omg 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Die ene game da gij toonde 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Da was een troll 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ik en robbe hadden ale 2 jgl gepakt 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Hij ivern ik qi qi dus i kpak enemy jgl hij onze jgl 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Was fcking grappig 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: kmoe lve 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: lv30 hale 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Nee eh die trynda vent 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: wannes trynda isda tank 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: En ja idd 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Nee trynda is geen tank 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Kga mee doen me lvl 30 worden op smurf hahah 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: haahah doen 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: morge we zijn da 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: shit die heeft da ook 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Indd 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ma trynda ma elektrocute is vuilnis 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Zet hem op straat 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: hahaha 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: 1probleem ik ben wel maar lvl 24 maar 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Nee ik kan da ni egt lezen 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Hahaha 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Achterste bush? 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Flash ignite? 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ez kill 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ahhahaha 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ult hem ofni 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Heb een oplossing voor u te weinig farm 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Koop tiamath 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Mooi 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: <@!381048593911382026>  koop tiamath 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Omg 1 hp te kort 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Big  sad pp 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Tiamth 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Aaaa 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Nieuwe beste game huh 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Zet da item op een cijfer da ge snel kunt gebruiken 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Is handig voor groepen minions te killen 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ga youmous 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Hahaha die penta steal 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: okeeeeeee 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: F 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ga top farme 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Of baron lol 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Deze yi gvd 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: die moest smite 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Indd 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ait kgaan ne keer slape, kzen moe 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Slu 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: sgoe toch nog weer 12kills 
+guild: Republic Wadiya , channel: general, author: roggenrola64, message: shalom 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: salom 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Shalom 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Ik kom over 10< 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: Min 
+guild: Republic Wadiya , channel: general, author: roggenrola64, message: -join 
+guild: Republic Wadiya , channel: general, author: roggenrola64, message: -play https://www.youtube.com/watch?v=FAMU6md_Hc4&t=6s 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: straks iemand mc? 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: tusse half 2 en 4 ong kanek 
+guild: Republic Wadiya , channel: general, author: roggenrola64, message: -join 
+guild: Republic Wadiya , channel: general, author: roggenrola64, message: -play https://www.youtube.com/watch?v=ubhkWq6dobw 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: .ranking 
+guild: ZIx0 , channel: minecraftboys, author: Kyro, message: Ik binnen half uurtje mss 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: aitt cv 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: .join 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: .play best music for playing lol 
+guild: Republic Wadiya , channel: general, author: roggenrola64, message: .ranking 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: .leave 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: -play best music for playing lol 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: -lyrics 
+guild: Republic Wadiya , channel: general, author: roggenrola64, message: -play memorys 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: -skip 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message: /expbottle 10000 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: En al gekke plays me rengo? 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: nee nee ikke me nasus 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: ik me zed 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: Lol 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: Wtf gij moet tegen een garen baren me 31 % winrate 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -join 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play memories maroon 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play summer of 69 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play i love rock nroll 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play narcotic liquid 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play cafe zonder bier 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: <:aladeen:638032551008665601> 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play i get the bag 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: play annabel hans de booij 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play persuit of happines kid cudi 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: lalala y2k 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play lalala y2k 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play heaven bryan adams 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play sweet home alabama 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play pokemon theme 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play country roads 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play your love the outfield 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: ruben? 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: where are you 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: kzijn terug 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: ik ben er 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play lalala y2k
+-play heaven bryan adams
+-play sweet home alabama
+-play pokemon theme
+-play country roads
+-play your love the outfield 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: <@!381048593911382026>  discord? 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: <@!266645572222451713>  kooom 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: kben spel aant spelen 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: krunker? 
+guild: Republic Wadiya , channel: league-of-legends, author: roggenrola64, message: nee nee dungreed 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: ahn 
+guild: Republic Wadiya , channel: general, author: DramaticRager, message:  
+guild: Republic Wadiya , channel: league-of-legends, author: Uglyasfk, message:  
+guild: Republic Wadiya , channel: league-of-legends, author: Elias, message:  
+guild: Republic Wadiya , channel: league-of-legends, author: Pokemaxi, message:  
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: .join 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: .play best music for playing lol 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: -stop 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: .stop 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: -.join 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: .join 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: .play neveneffectern midlife lied 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: .skip 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: ?resume 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: .resume 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: -play wildlife lied neveneffecten 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: -stop 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: -play heyyayayayaayyayaayyaa 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: -stop 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: -play heyayayayeyaya 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: -play ryze 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: -stop 
+guild: NEGERS , channel: bot-commands, author: DramaticRager, message: -play rise 
+guild: NEGERS , channel: alleen-egte-koekje, author: ROBBELEGEND, message: -play brocoli fuck 
+guild: NEGERS , channel: alleen-egte-koekje, author: ROBBELEGEND, message: -stop 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: koooom 
+guild: Republic Wadiya , channel: general, author: ROBBELEGEND, message: -play Mtc s3rl 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -stop 
+guild: Republic Wadiya , channel: general, author: ROBBELEGEND, message: -play weekend jordan burns 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -stop 
+guild: Republic Wadiya , channel: general, author: ROBBELEGEND, message: -play along came polly 
+guild: Republic Wadiya , channel: general, author: ROBBELEGEND, message: -stop 
+guild: Republic Wadiya , channel: general, author: ROBBELEGEND, message: -play along came polly rebuke 
+guild: Republic Wadiya , channel: general, author: ROBBELEGEND, message: -play piemelja 
+guild: Republic Wadiya , channel: general, author: ROBBELEGEND, message: -stop 
+guild: Republic Wadiya , channel: general, author: ROBBELEGEND, message: -play i miss the old kanye Mark  blair spotify 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: -play i really miss my wigga 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .leave 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .join 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .play best music for playing lol 
+guild: NEGERS , channel: bot-commands, author: ROBBELEGEND, message: -play fts hard mix 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .join 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .play heyhyayaeyeye 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: -play heyhyayaeyeye 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: -play heyhyayaeyeye 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .leave 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .join 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .play best music for playing lol 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .play best songs for playing lol 110 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .skip 
+guild: NEGERS , channel: alleen-egte-koekje, author: DramaticRager, message: .leave 
+guild: Republic Wadiya , channel: league-of-legends, author: ThunderMaster0, message:  
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play legends never die 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play awaken 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play rise 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play Giants LoL 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play phoenix LoL 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play Giants lol 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play phoenix lol 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -loop 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -stop 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play legends never die 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play memories 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play all i want for christmass is u 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play felizna vidad 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play awaken 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play phoenix 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -loop 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play bad guy 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -shuffle 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -pause 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -resume 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: https://www.youtube.com/watch?v=Tg06IW9Smzw 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play https://www.youtube.com/watch?v=Tg06IW9Smzw 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: sad enemies noise 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -stop 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: koooom 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message:  
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: -play all star 
+guild: Republic Wadiya , channel: general, author: Rubengastjeuh, message: -play dont stop me now 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message:  
+guild: ZIx0 , channel: minecraftboys, author: lucadb2002, message: Iemand mc 
+guild: ZIx0 , channel: minecraftboys, author: lucadb2002, message: Mmm goe laat antwoorden 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: hhahah 
+guild: ZIx0 , channel: minecraftboys, author: lucadb2002, message: Ma kwil wel maja viktor moe ook wel wille 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ja khad ni gespot gistere 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ja kweent 
+guild: ZIx0 , channel: minecraftboys, author: lucadb2002, message: M1 tis ook los v1n eergisteren e 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ah waz 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ahja wtf haha 
+guild: ZIx0 , channel: minecraftboys, author: lucadb2002, message: Tis te hope da viktor sebiet wilt wan kheb wel keer zin 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: ja cv cv 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: kga ondrtss dota 
+guild: ZIx0 , channel: minecraftboys, author: ROAM, message: stuur alsde online zijt 
+guild: ZIx0 , channel: minecraftboys, author: lucadb2002, message: Sgoed 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play https://open.spotify.com/playlist/1pi1XeKWP5RbhGTMcPXYiC?si=fsPzSHC5R7qeK4k-CfNsOw 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -shuffle 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -loop 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -next 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -lyrics 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -next 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -next 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -stop 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .join 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .play legends never die 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .play memories 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .help 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: .info 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play heyayayyayayayheyyayay 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -stop 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play heyayayeyyayyeahyyeayh 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -play https://open.spotify.com/playlist/1pi1XeKWP5RbhGTMcPXYiC?si=fsPzSHC5R7qeK4k-CfNsOw 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: -stop 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -stop 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play aladeen motherfuckers 
+guild: Republic Wadiya , channel: league-of-legends, author: Rubengastjeuh, message: -play aladeen motherfuckers 
+guild: Republic Wadiya , channel: league-of-legends, author: DramaticRager, message: wijj horen u 

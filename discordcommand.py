@@ -6,6 +6,7 @@ import os
 from discord import FFmpegPCMAudio
 from os import system
 from discord.ext import commands
+import mysql.connector
 
 import asyncio
 import functools
@@ -16,19 +17,218 @@ from async_timeout import timeout
 
 bot = commands.Bot(command_prefix='.', description='leuke negerbot')
 
+db = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    passwd="wout",
+    database="userlevels",
+    auth_plugin="mysql_native_password"
+)
+
 @bot.event
 async def on_ready():
     print('Logged in as')
     print(bot.user.name)
-    print(bot.user.id)
+    print(db)
+    for guild in bot.guilds:
+        print(guild.id)
     await bot.change_presence(status=discord.Status.online, activity=discord.Activity(type=discord.ActivityType.listening, name=".help", state="ROAM's discordbot", details="discord.py, python, youtube_dl"))
+
+def checkLevel(xp: int):
+    if xp <= 50:
+        if xp == 50:
+            level = 2
+            promoted = True
+        else:
+            level = 1
+            promoted = False
+    elif xp <= 120:
+        if xp == 120:
+            level = 3
+            promoted = True
+        else:
+            level = 2
+            promoted = False
+    elif xp <= 190:
+        if xp == 190:
+            level = 4
+            promoted = True
+        else:
+            level = 3
+            promoted = False
+    elif xp <= 280:
+        if xp == 280:
+            level = 5
+            promoted = True
+        else:
+            level = 4
+            promoted = False
+    elif xp <= 380:
+        if xp == 380:
+            level = 6
+            promoted = True
+        else:
+            level = 5
+            promoted = False
+    elif xp <= 490:
+        if xp == 490:
+            level = 7
+            promoted = True
+        else:
+            level = 6
+            promoted = False
+    elif xp <= 600:
+        if xp == 600:
+            level = 8
+            promoted = True
+        else:
+            level = 7
+            promoted = False
+    elif xp <= 720:
+        if xp == 720:
+            level = 9
+            promoted = True
+        else:
+            level = 8
+            promoted = False
+    elif xp <= 850:
+        if xp == 850:
+            level = 10
+            promoted = True
+        else:
+            level = 9
+            promoted = False
+    elif xp <= 1000:
+        if xp == 1000:
+            level = 11
+            promoted = True
+        else:
+            level = 10
+            promoted = False
+    elif xp <= 1250:
+        if xp == 1250:
+            level = 12
+            promoted = True
+        else:
+            level = 11
+            promoted = False
+    elif xp <= 1500:
+        if xp == 1500:
+            level = 13
+            promoted = True
+        else:
+            level = 12
+            promoted = False
+    elif xp <= 1750:
+        if xp == 1750:
+            level = 14
+            promoted = True
+        else:
+            level = 13
+            promoted = False
+    elif xp <= 2000:
+        if xp == 2000:
+            level = 15
+            promoted = True
+        else:
+            level = 14
+            promoted = False
+    elif xp <= 2300:
+        if xp == 2300:
+            level = 16
+            promoted = True
+        else:
+            level = 15
+            promoted = False
+    elif xp > 1000000:
+        level = 420
+        promoted = False
+    elif xp > 69000:
+        level = 69
+        promoted = False
+    
+    response = {
+        'level': level,
+        'promoted': promoted
+    }
+    return response
 
 @bot.event
 async def on_message(message):
     if message.author.bot:
         return
+    if message.content.startswith(".idee "):
+        f=open("idee.txt", "a+")
+        f.write("van {} :->  {} \n".format(message.author.name, message.content))
+        thisChannel = message.guild.get_channel(message.channel.id)
+        await thisChannel.send("idee verstuurd naar database!")
     print("guild: {} , channel: {}, author: {}, message: {}".format(message.guild.name, message.channel.name, message.author.name, message.content))
+    f= open("logs.txt", "a")
+    f.write("guild: {} , channel: {}, author: {}, message: {} \n".format(message.guild.name, message.channel.name, message.author.name, message.content))
     await bot.process_commands(message)
+
+    if message.content.startswith("."):
+        pass
+    else:
+        xp = 5
+        cursor = db.cursor()
+        cursor.execute("SELECT user_xp FROM users WHERE client_id = {}".format(str(message.author.id)))
+        result = cursor.fetchall()
+        if len(result) == 0:
+            print("new user in database with name {}".format(message.author.name))
+            cursor.execute('INSERT INTO users (client_id, user_xp, name) VALUES({},{},"{}")'.format(str(message.author.id), str(xp), str(message.author.name)))
+            db.commit()
+            await message.channel.send("you just made your first xp, blijf berichte sturen voor meer xp en ket")
+        else:
+            currentXP = result[0][0]
+            newXP = currentXP + xp
+            cursor.execute("UPDATE users SET user_xp = {} WHERE client_id = {}".format(str(newXP),str(message.author.id)))
+            db.commit()
+            print("user: {}, xp: {}".format(str(message.author.name), str(newXP)))
+            cursor = db.cursor()
+            cursor.execute("SELECT user_xp FROM users WHERE client_id = {}".format(str(message.author.id)))
+            levelXP = cursor.fetchall()
+            levelXP = levelXP[0][0]
+            levelObj = checkLevel(levelXP)
+            if levelObj['promoted'] == True:
+                await message.channel.send(message.author.mention + ' has leveled up to level {}, keihard'.format(str(levelObj['level'])))
+
+@bot.command()
+async def level(ctx):
+    levelcursor = db.cursor()
+    levelcursor.execute("SELECT user_xp FROM users WHERE client_id = {}".format(str(ctx.author.id)))
+    result = levelcursor.fetchall()
+    result = result[0][0]
+    levelObj = checkLevel(result)
+    await ctx.send(ctx.author.mention)
+    await ctx.send("```glsl\n you are level: {}, jij gaat zo dik ```".format(str(levelObj['level'])))
+
+@bot.command()
+async def ranking(ctx, page: int =1):
+    cursor = db.cursor()
+    cursor.execute("SELECT user_xp, name FROM users ORDER BY user_xp DESC")
+    result = cursor.fetchall()
+
+    items_per_page = 10
+
+    start = (page - 1) * items_per_page
+    end = start + items_per_page
+
+    queue = ''
+    for i, person in enumerate(result[start:end], start=start):
+        queue += '`{0}.` **{1[1]}**: {1[0]}\n'.format(i + 1, person)
+
+    embed = (discord.Embed(description='**XP ranking**\n\n{}'.format(queue)))
+    await ctx.send(embed=embed)
+
+@bot.command()
+async def savedSummoner(ctx, name):
+    if name:
+        cursor = db.cursor()
+        cursor.execute("SELECT * FROM users WHERE summonerName = {}".format(str(name)))
+        result =  db.fetchall()
+        if result:
+            pass
 
 @bot.command()
 async def info(ctx):
@@ -50,6 +250,11 @@ async def homo(ctx, *, member):
     await ctx.send(member + " is een homo")
 
 @bot.command()
+async def slaapwel(ctx):
+    await ctx.channel.purge(limit=1)
+    await ctx.send(ctx.author.mention + ' gaat slapen, slaapwel!')
+
+@bot.command()
 async def koekje(ctx):
     await ctx.channel.purge(limit =1)
     await ctx.send("<:hondekoekje:615167466259087370>")
@@ -68,13 +273,20 @@ async def on_member_join(member):
 bot.remove_command('help')
 
 @bot.command()
+async def neger(ctx, name):
+    await ctx.channel.purge(limit=1)
+    await ctx.send(name + "is een grote neger")
+
+@bot.command()
 async def help(ctx):
     embed = discord.Embed(title="24/7 uptime coming soon", description="all commands available right now:", color=0x3eeb69)
 
     embed.add_field(name="info", value="info about this bot", inline=False)
     embed.add_field(name="leagueoflegends", value="te moe voor een beschrijving fk dit ~ 3u 30 (AM)", inline=False)
-    embed.add_field(name="djx", value="run this command for help with the musicbot")
-
+    embed.add_field(name="djket", value="run this command for help with the musicbot")
+    embed.add_field(name="games", value="uitleg over spelletjes", inline=False)
+    embed.add_field(name="ranking", value="ranking")
+    embed.add_field(name="level", value="level")
     await ctx.send(embed=embed)
 
 @bot.command()
@@ -698,8 +910,8 @@ class Music(commands.Cog):
                 raise commands.CommandError('Bot is already in a voice channel.')
 
 @bot.command(pass_context=True)
-async def djwannes(ctx):
-    embed = discord.Embed(title="all commands for dj wannes", description="made by ROAM", color=discord.Color.blurple())
+async def djket(ctx):
+    embed = discord.Embed(title="all commands for dj ket", description="made by ROAM", color=discord.Color.blurple())
     embed.add_field(name="join", value="always use this first, or the bot will break")
     embed.add_field(name="play [musictitle]", value="plays music, or adds the music to the queue")
     embed.add_field(name="pause", value="pause the currently playing song")
@@ -708,7 +920,7 @@ async def djwannes(ctx):
     embed.add_field(name="remove [index queue]", value="removes the [index queue]nd song from the queue")
     embed.add_field(name="shuffle", value="shuffle the queue")
     embed.add_field(name="queue", value="show the current queue")
-    embed.add_field(name="stop", value="stops dj wannes from playing music")
+    embed.add_field(name="stop", value="stops dj ketekoek from playing music")
     embed.add_field(name="now", value="shows the currently playing song")
     embed.add_field(name="leave", value="dj wannes leaves the voice channel")
     embed.add_field(name="volume [0-100]", value="changes volume starting from the next song")
@@ -722,11 +934,6 @@ async def games(ctx):
     embed.add_field(name="guessthenumber [number]", value="gok een nummer tussen 1 en 200, het nummer is hetzelfde voor iedereen en blijft hetzelfde tot geraden m.a.w eenzelfde nummer 2 keer gokken heeft geen zin")
     embed.add_field(name="\n ideën voor meer games?", value="--> .idee [idee]")
     await ctx.send(embed=embed)
-
-@bot.command(pass_context=True)
-async def idee(ctx, idee: str):
-    f=open("idee.txt", "a+")
-    f.write("idee : {}".format(idee))
 
 bot_choices = ['schaar', 'steen', 'papier']
 
@@ -809,7 +1016,7 @@ async def roll(ctx, fromto: int):
 
 bot.add_cog(Music(bot))
 #run bot command
-bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.Xe7LHw._k-_uS47aclUU8GR6EjTDoIJyYg')
+bot.run('NjM0NDYyNDMwMjUxOTc0NjU3.XfQaAw.SX6MIkrDUinAcy7nrgCKOhQQYaE')
 
 
  
